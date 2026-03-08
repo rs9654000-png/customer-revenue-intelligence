@@ -1,0 +1,64 @@
+Customer Revenue Intelligence: End-to-End Data Analytics
+- Project Overview
+This project demonstrates a complete Data Analytics pipeline, transforming raw, messy sales data into a structured Star Schema for business intelligence. The workflow covers data cleaning/modeling in Python, database management in SQL, and interactive reporting in Power BI.
+
+-The Tech Stack
+Python (Pandas): For data cleaning, normalization, and generating surrogate keys.
+
+SQL (MS SQL Server): For data warehousing, schema creation, and complex business queries.
+
+Power BI: For building an interactive executive dashboard and DAX calculations.
+
+VS Code: Primary IDE for Python development.
+
+- Project Structure
+Plaintext
+customer-revenue-intelligence/
+├── data/                         # Cleaned CSV files generated via Python
+│   ├── dim_customer.csv
+│   ├── dim_product.csv
+│   ├── dim_region.csv
+│   ├── dim_date.csv
+│   └── sales_fact.csv
+├── notebooks/
+│   └── data_modeling.ipynb       # Python cleaning & Star Schema logic
+├── sql/
+│   ├── table_creation.sql        # DDL scripts for SQL Server
+│   └── analysis_queries.sql      # Business insight queries
+├── powerbi/
+│   └── sales_dashboard.pbix      # Final Power BI Report
+└── README.md
+🚀 Workflow Details
+1. Data Transformation (Python)
+
+I used Python to handle the heavy lifting of data preparation:
+
+Formatting: Converted date strings into datetime objects for time-series analysis.
+
+Schema Design: De-normalized the flat file into a Star Schema to reduce redundancy.
+
+Key Generation: Created unique customer_key, product_key, and region_key to facilitate efficient joins in SQL and Power BI.
+
+2. Data Warehousing (SQL)
+
+After processing the data, I moved it to SQL Server to simulate a real-world production environment:
+
+DDL Scripts: Created tables with proper data types and Primary/Foreign Key relationships.
+
+Aggregations: Wrote optimized queries to calculate total revenue, profit margins, and regional rankings.
+
+3. Data Visualization (Power BI)
+
+The final dashboard provides actionable insights for stakeholders:
+
+Revenue Trends: A month-over-month view of sales performance.
+
+Product Analytics: Identifying the most profitable categories and sub-categories.
+
+Geospatial Insights: Mapping sales performance across different states.
+-Key Business Insights
+Top Region: Karnataka and Tamil Nadu emerged as high-performing states.
+
+Profitability: While the "Furniture" category has high revenue, the "Office Supplies" category often yields higher profit margins.
+
+Data Integrity: Successfully handled over 58,000 records with zero null values in the final fact table.

@@ -1,0 +1,451 @@
+product_key,product_name,category,subcategory
+1,Bookcases 4,Furniture,Bookcases
+2,Bookcases 36,Furniture,Bookcases
+3,Chairs 34,Furniture,Chairs
+4,Storage 48,Office Supplies,Storage
+5,Bookcases 50,Furniture,Bookcases
+6,Paper 14,Office Supplies,Paper
+7,Tables 27,Furniture,Tables
+8,Phones 18,Technology,Phones
+9,Accessories 38,Technology,Accessories
+10,Laptops 49,Technology,Laptops
+11,Tables 49,Furniture,Tables
+12,Laptops 5,Technology,Laptops
+13,Accessories 22,Technology,Accessories
+14,Paper 16,Office Supplies,Paper
+15,Storage 28,Office Supplies,Storage
+16,Accessories 31,Technology,Accessories
+17,Storage 4,Office Supplies,Storage
+18,Tables 28,Furniture,Tables
+19,Chairs 23,Furniture,Chairs
+20,Chairs 42,Furniture,Chairs
+21,Binders 37,Office Supplies,Binders
+22,Storage 21,Office Supplies,Storage
+23,Tables 48,Furniture,Tables
+24,Laptops 28,Technology,Laptops
+25,Storage 42,Office Supplies,Storage
+26,Tables 42,Furniture,Tables
+27,Chairs 16,Furniture,Chairs
+28,Chairs 26,Furniture,Chairs
+29,Accessories 36,Technology,Accessories
+30,Binders 43,Office Supplies,Binders
+31,Binders 44,Office Supplies,Binders
+32,Binders 13,Office Supplies,Binders
+33,Chairs 21,Furniture,Chairs
+34,Accessories 46,Technology,Accessories
+35,Tables 2,Furniture,Tables
+36,Accessories 18,Technology,Accessories
+37,Accessories 8,Technology,Accessories
+38,Bookcases 30,Furniture,Bookcases
+39,Laptops 24,Technology,Laptops
+40,Phones 5,Technology,Phones
+41,Laptops 8,Technology,Laptops
+42,Storage 16,Office Supplies,Storage
+43,Tables 17,Furniture,Tables
+44,Bookcases 25,Furniture,Bookcases
+45,Paper 7,Office Supplies,Paper
+46,Laptops 44,Technology,Laptops
+47,Tables 33,Furniture,Tables
+48,Storage 20,Office Supplies,Storage
+49,Binders 47,Office Supplies,Binders
+50,Bookcases 23,Furniture,Bookcases
+51,Storage 41,Office Supplies,Storage
+52,Storage 35,Office Supplies,Storage
+53,Tables 12,Furniture,Tables
+54,Paper 36,Office Supplies,Paper
+55,Bookcases 43,Furniture,Bookcases
+56,Phones 46,Technology,Phones
+57,Laptops 17,Technology,Laptops
+58,Accessories 6,Technology,Accessories
+59,Laptops 32,Technology,Laptops
+60,Accessories 11,Technology,Accessories
+61,Accessories 49,Technology,Accessories
+62,Laptops 26,Technology,Laptops
+63,Bookcases 19,Furniture,Bookcases
+64,Chairs 1,Furniture,Chairs
+65,Paper 21,Office Supplies,Paper
+66,Phones 13,Technology,Phones
+67,Storage 10,Office Supplies,Storage
+68,Laptops 13,Technology,Laptops
+69,Bookcases 17,Furniture,Bookcases
+70,Tables 30,Furniture,Tables
+71,Accessories 16,Technology,Accessories
+72,Storage 37,Office Supplies,Storage
+73,Storage 11,Office Supplies,Storage
+74,Tables 29,Furniture,Tables
+75,Binders 49,Office Supplies,Binders
+76,Binders 7,Office Supplies,Binders
+77,Storage 8,Office Supplies,Storage
+78,Bookcases 26,Furniture,Bookcases
+79,Storage 36,Office Supplies,Storage
+80,Tables 26,Furniture,Tables
+81,Laptops 19,Technology,Laptops
+82,Paper 23,Office Supplies,Paper
+83,Tables 38,Furniture,Tables
+84,Paper 28,Office Supplies,Paper
+85,Binders 5,Office Supplies,Binders
+86,Accessories 27,Technology,Accessories
+87,Laptops 7,Technology,Laptops
+88,Bookcases 39,Furniture,Bookcases
+89,Binders 4,Office Supplies,Binders
+90,Laptops 12,Technology,Laptops
+91,Laptops 43,Technology,Laptops
+92,Phones 3,Technology,Phones
+93,Bookcases 35,Furniture,Bookcases
+94,Phones 15,Technology,Phones
+95,Paper 33,Office Supplies,Paper
+96,Tables 10,Furniture,Tables
+97,Accessories 29,Technology,Accessories
+98,Accessories 40,Technology,Accessories
+99,Chairs 50,Furniture,Chairs
+100,Laptops 16,Technology,Laptops
+101,Chairs 40,Furniture,Chairs
+102,Accessories 1,Technology,Accessories
+103,Storage 22,Office Supplies,Storage
+104,Tables 4,Furniture,Tables
+105,Laptops 9,Technology,Laptops
+106,Bookcases 45,Furniture,Bookcases
+107,Paper 35,Office Supplies,Paper
+108,Chairs 8,Furniture,Chairs
+109,Chairs 29,Furniture,Chairs
+110,Chairs 49,Furniture,Chairs
+111,Chairs 28,Furniture,Chairs
+112,Bookcases 29,Furniture,Bookcases
+113,Paper 24,Office Supplies,Paper
+114,Accessories 3,Technology,Accessories
+115,Phones 50,Technology,Phones
+116,Storage 45,Office Supplies,Storage
+117,Phones 35,Technology,Phones
+118,Phones 43,Technology,Phones
+119,Laptops 50,Technology,Laptops
+120,Paper 1,Office Supplies,Paper
+121,Laptops 39,Technology,Laptops
+122,Paper 8,Office Supplies,Paper
+123,Tables 45,Furniture,Tables
+124,Accessories 37,Technology,Accessories
+125,Accessories 23,Technology,Accessories
+126,Binders 50,Office Supplies,Binders
+127,Phones 21,Technology,Phones
+128,Bookcases 3,Furniture,Bookcases
+129,Paper 40,Office Supplies,Paper
+130,Laptops 29,Technology,Laptops
+131,Bookcases 27,Furniture,Bookcases
+132,Accessories 39,Technology,Accessories
+133,Tables 46,Furniture,Tables
+134,Bookcases 2,Furniture,Bookcases
+135,Binders 34,Office Supplies,Binders
+136,Storage 24,Office Supplies,Storage
+137,Storage 25,Office Supplies,Storage
+138,Chairs 31,Furniture,Chairs
+139,Bookcases 7,Furniture,Bookcases
+140,Laptops 33,Technology,Laptops
+141,Chairs 15,Furniture,Chairs
+142,Laptops 45,Technology,Laptops
+143,Binders 26,Office Supplies,Binders
+144,Tables 1,Furniture,Tables
+145,Bookcases 49,Furniture,Bookcases
+146,Chairs 9,Furniture,Chairs
+147,Chairs 43,Furniture,Chairs
+148,Phones 31,Technology,Phones
+149,Chairs 30,Furniture,Chairs
+150,Bookcases 8,Furniture,Bookcases
+151,Chairs 7,Furniture,Chairs
+152,Phones 30,Technology,Phones
+153,Chairs 47,Furniture,Chairs
+154,Accessories 4,Technology,Accessories
+155,Storage 23,Office Supplies,Storage
+156,Laptops 42,Technology,Laptops
+157,Binders 32,Office Supplies,Binders
+158,Paper 5,Office Supplies,Paper
+159,Storage 1,Office Supplies,Storage
+160,Phones 39,Technology,Phones
+161,Binders 6,Office Supplies,Binders
+162,Storage 38,Office Supplies,Storage
+163,Tables 16,Furniture,Tables
+164,Binders 22,Office Supplies,Binders
+165,Accessories 50,Technology,Accessories
+166,Accessories 28,Technology,Accessories
+167,Accessories 9,Technology,Accessories
+168,Bookcases 5,Furniture,Bookcases
+169,Phones 17,Technology,Phones
+170,Accessories 42,Technology,Accessories
+171,Binders 46,Office Supplies,Binders
+172,Phones 2,Technology,Phones
+173,Phones 23,Technology,Phones
+174,Storage 40,Office Supplies,Storage
+175,Accessories 45,Technology,Accessories
+176,Accessories 34,Technology,Accessories
+177,Bookcases 37,Furniture,Bookcases
+178,Phones 34,Technology,Phones
+179,Phones 42,Technology,Phones
+180,Binders 39,Office Supplies,Binders
+181,Binders 10,Office Supplies,Binders
+182,Chairs 46,Furniture,Chairs
+183,Accessories 48,Technology,Accessories
+184,Bookcases 42,Furniture,Bookcases
+185,Bookcases 12,Furniture,Bookcases
+186,Laptops 21,Technology,Laptops
+187,Chairs 3,Furniture,Chairs
+188,Tables 44,Furniture,Tables
+189,Storage 50,Office Supplies,Storage
+190,Paper 34,Office Supplies,Paper
+191,Bookcases 32,Furniture,Bookcases
+192,Paper 46,Office Supplies,Paper
+193,Binders 41,Office Supplies,Binders
+194,Paper 47,Office Supplies,Paper
+195,Storage 46,Office Supplies,Storage
+196,Laptops 20,Technology,Laptops
+197,Storage 27,Office Supplies,Storage
+198,Storage 12,Office Supplies,Storage
+199,Paper 37,Office Supplies,Paper
+200,Paper 11,Office Supplies,Paper
+201,Binders 30,Office Supplies,Binders
+202,Accessories 10,Technology,Accessories
+203,Bookcases 41,Furniture,Bookcases
+204,Tables 15,Furniture,Tables
+205,Chairs 2,Furniture,Chairs
+206,Phones 47,Technology,Phones
+207,Laptops 40,Technology,Laptops
+208,Tables 19,Furniture,Tables
+209,Phones 7,Technology,Phones
+210,Laptops 10,Technology,Laptops
+211,Phones 14,Technology,Phones
+212,Phones 10,Technology,Phones
+213,Tables 7,Furniture,Tables
+214,Phones 40,Technology,Phones
+215,Storage 7,Office Supplies,Storage
+216,Bookcases 20,Furniture,Bookcases
+217,Accessories 32,Technology,Accessories
+218,Accessories 43,Technology,Accessories
+219,Paper 45,Office Supplies,Paper
+220,Tables 22,Furniture,Tables
+221,Chairs 13,Furniture,Chairs
+222,Tables 40,Furniture,Tables
+223,Laptops 3,Technology,Laptops
+224,Storage 6,Office Supplies,Storage
+225,Bookcases 24,Furniture,Bookcases
+226,Storage 26,Office Supplies,Storage
+227,Phones 48,Technology,Phones
+228,Bookcases 34,Furniture,Bookcases
+229,Phones 41,Technology,Phones
+230,Bookcases 10,Furniture,Bookcases
+231,Paper 25,Office Supplies,Paper
+232,Binders 19,Office Supplies,Binders
+233,Phones 29,Technology,Phones
+234,Tables 14,Furniture,Tables
+235,Bookcases 22,Furniture,Bookcases
+236,Laptops 25,Technology,Laptops
+237,Chairs 10,Furniture,Chairs
+238,Binders 17,Office Supplies,Binders
+239,Phones 45,Technology,Phones
+240,Laptops 37,Technology,Laptops
+241,Chairs 32,Furniture,Chairs
+242,Bookcases 14,Furniture,Bookcases
+243,Tables 25,Furniture,Tables
+244,Chairs 27,Furniture,Chairs
+245,Storage 2,Office Supplies,Storage
+246,Accessories 20,Technology,Accessories
+247,Storage 33,Office Supplies,Storage
+248,Binders 11,Office Supplies,Binders
+249,Paper 2,Office Supplies,Paper
+250,Laptops 31,Technology,Laptops
+251,Storage 29,Office Supplies,Storage
+252,Storage 47,Office Supplies,Storage
+253,Binders 12,Office Supplies,Binders
+254,Binders 21,Office Supplies,Binders
+255,Storage 9,Office Supplies,Storage
+256,Binders 45,Office Supplies,Binders
+257,Binders 23,Office Supplies,Binders
+258,Accessories 33,Technology,Accessories
+259,Tables 21,Furniture,Tables
+260,Laptops 4,Technology,Laptops
+261,Accessories 26,Technology,Accessories
+262,Chairs 48,Furniture,Chairs
+263,Phones 38,Technology,Phones
+264,Bookcases 18,Furniture,Bookcases
+265,Phones 20,Technology,Phones
+266,Phones 11,Technology,Phones
+267,Laptops 46,Technology,Laptops
+268,Accessories 24,Technology,Accessories
+269,Binders 25,Office Supplies,Binders
+270,Storage 14,Office Supplies,Storage
+271,Accessories 12,Technology,Accessories
+272,Paper 44,Office Supplies,Paper
+273,Chairs 37,Furniture,Chairs
+274,Accessories 35,Technology,Accessories
+275,Binders 38,Office Supplies,Binders
+276,Binders 18,Office Supplies,Binders
+277,Bookcases 28,Furniture,Bookcases
+278,Laptops 23,Technology,Laptops
+279,Chairs 4,Furniture,Chairs
+280,Chairs 20,Furniture,Chairs
+281,Tables 35,Furniture,Tables
+282,Binders 20,Office Supplies,Binders
+283,Paper 27,Office Supplies,Paper
+284,Binders 31,Office Supplies,Binders
+285,Phones 12,Technology,Phones
+286,Paper 3,Office Supplies,Paper
+287,Accessories 47,Technology,Accessories
+288,Chairs 44,Furniture,Chairs
+289,Tables 47,Furniture,Tables
+290,Binders 15,Office Supplies,Binders
+291,Bookcases 21,Furniture,Bookcases
+292,Chairs 6,Furniture,Chairs
+293,Tables 24,Furniture,Tables
+294,Laptops 2,Technology,Laptops
+295,Paper 12,Office Supplies,Paper
+296,Phones 9,Technology,Phones
+297,Phones 33,Technology,Phones
+298,Phones 26,Technology,Phones
+299,Paper 29,Office Supplies,Paper
+300,Binders 14,Office Supplies,Binders
+301,Bookcases 48,Furniture,Bookcases
+302,Laptops 48,Technology,Laptops
+303,Paper 4,Office Supplies,Paper
+304,Laptops 18,Technology,Laptops
+305,Paper 50,Office Supplies,Paper
+306,Tables 32,Furniture,Tables
+307,Accessories 13,Technology,Accessories
+308,Paper 38,Office Supplies,Paper
+309,Bookcases 6,Furniture,Bookcases
+310,Chairs 41,Furniture,Chairs
+311,Laptops 30,Technology,Laptops
+312,Phones 27,Technology,Phones
+313,Binders 24,Office Supplies,Binders
+314,Tables 11,Furniture,Tables
+315,Tables 9,Furniture,Tables
+316,Accessories 19,Technology,Accessories
+317,Laptops 1,Technology,Laptops
+318,Bookcases 13,Furniture,Bookcases
+319,Accessories 2,Technology,Accessories
+320,Phones 6,Technology,Phones
+321,Bookcases 1,Furniture,Bookcases
+322,Paper 39,Office Supplies,Paper
+323,Chairs 22,Furniture,Chairs
+324,Storage 3,Office Supplies,Storage
+325,Paper 41,Office Supplies,Paper
+326,Bookcases 31,Furniture,Bookcases
+327,Binders 1,Office Supplies,Binders
+328,Binders 36,Office Supplies,Binders
+329,Laptops 27,Technology,Laptops
+330,Chairs 5,Furniture,Chairs
+331,Accessories 44,Technology,Accessories
+332,Chairs 12,Furniture,Chairs
+333,Phones 19,Technology,Phones
+334,Accessories 30,Technology,Accessories
+335,Binders 27,Office Supplies,Binders
+336,Tables 50,Furniture,Tables
+337,Paper 32,Office Supplies,Paper
+338,Accessories 25,Technology,Accessories
+339,Laptops 34,Technology,Laptops
+340,Chairs 11,Furniture,Chairs
+341,Accessories 14,Technology,Accessories
+342,Chairs 35,Furniture,Chairs
+343,Storage 30,Office Supplies,Storage
+344,Storage 39,Office Supplies,Storage
+345,Bookcases 33,Furniture,Bookcases
+346,Paper 9,Office Supplies,Paper
+347,Tables 6,Furniture,Tables
+348,Chairs 19,Furniture,Chairs
+349,Phones 49,Technology,Phones
+350,Phones 44,Technology,Phones
+351,Accessories 7,Technology,Accessories
+352,Binders 9,Office Supplies,Binders
+353,Phones 32,Technology,Phones
+354,Storage 5,Office Supplies,Storage
+355,Tables 37,Furniture,Tables
+356,Laptops 36,Technology,Laptops
+357,Bookcases 38,Furniture,Bookcases
+358,Bookcases 46,Furniture,Bookcases
+359,Tables 36,Furniture,Tables
+360,Laptops 14,Technology,Laptops
+361,Storage 44,Office Supplies,Storage
+362,Tables 5,Furniture,Tables
+363,Paper 17,Office Supplies,Paper
+364,Paper 26,Office Supplies,Paper
+365,Bookcases 44,Furniture,Bookcases
+366,Tables 23,Furniture,Tables
+367,Accessories 17,Technology,Accessories
+368,Storage 34,Office Supplies,Storage
+369,Phones 8,Technology,Phones
+370,Laptops 11,Technology,Laptops
+371,Laptops 22,Technology,Laptops
+372,Laptops 15,Technology,Laptops
+373,Paper 22,Office Supplies,Paper
+374,Paper 31,Office Supplies,Paper
+375,Chairs 45,Furniture,Chairs
+376,Tables 3,Furniture,Tables
+377,Tables 34,Furniture,Tables
+378,Storage 18,Office Supplies,Storage
+379,Storage 31,Office Supplies,Storage
+380,Chairs 38,Furniture,Chairs
+381,Bookcases 40,Furniture,Bookcases
+382,Paper 43,Office Supplies,Paper
+383,Binders 33,Office Supplies,Binders
+384,Tables 41,Furniture,Tables
+385,Paper 19,Office Supplies,Paper
+386,Paper 10,Office Supplies,Paper
+387,Chairs 24,Furniture,Chairs
+388,Chairs 14,Furniture,Chairs
+389,Phones 37,Technology,Phones
+390,Bookcases 47,Furniture,Bookcases
+391,Laptops 6,Technology,Laptops
+392,Binders 28,Office Supplies,Binders
+393,Phones 36,Technology,Phones
+394,Storage 13,Office Supplies,Storage
+395,Storage 17,Office Supplies,Storage
+396,Tables 8,Furniture,Tables
+397,Paper 13,Office Supplies,Paper
+398,Tables 43,Furniture,Tables
+399,Paper 30,Office Supplies,Paper
+400,Accessories 41,Technology,Accessories
+401,Tables 18,Furniture,Tables
+402,Chairs 17,Furniture,Chairs
+403,Chairs 33,Furniture,Chairs
+404,Laptops 41,Technology,Laptops
+405,Phones 16,Technology,Phones
+406,Tables 20,Furniture,Tables
+407,Binders 8,Office Supplies,Binders
+408,Paper 49,Office Supplies,Paper
+409,Phones 24,Technology,Phones
+410,Paper 20,Office Supplies,Paper
+411,Paper 6,Office Supplies,Paper
+412,Accessories 15,Technology,Accessories
+413,Chairs 18,Furniture,Chairs
+414,Binders 48,Office Supplies,Binders
+415,Binders 16,Office Supplies,Binders
+416,Binders 42,Office Supplies,Binders
+417,Bookcases 11,Furniture,Bookcases
+418,Accessories 5,Technology,Accessories
+419,Tables 13,Furniture,Tables
+420,Binders 2,Office Supplies,Binders
+421,Bookcases 15,Furniture,Bookcases
+422,Bookcases 16,Furniture,Bookcases
+423,Bookcases 9,Furniture,Bookcases
+424,Binders 40,Office Supplies,Binders
+425,Laptops 35,Technology,Laptops
+426,Storage 15,Office Supplies,Storage
+427,Binders 35,Office Supplies,Binders
+428,Chairs 39,Furniture,Chairs
+429,Paper 48,Office Supplies,Paper
+430,Paper 15,Office Supplies,Paper
+431,Binders 29,Office Supplies,Binders
+432,Paper 18,Office Supplies,Paper
+433,Laptops 38,Technology,Laptops
+434,Accessories 21,Technology,Accessories
+435,Tables 31,Furniture,Tables
+436,Paper 42,Office Supplies,Paper
+437,Chairs 36,Furniture,Chairs
+438,Phones 28,Technology,Phones
+439,Storage 19,Office Supplies,Storage
+440,Chairs 25,Furniture,Chairs
+441,Phones 22,Technology,Phones
+442,Binders 3,Office Supplies,Binders
+443,Storage 32,Office Supplies,Storage
+444,Phones 25,Technology,Phones
+445,Tables 39,Furniture,Tables
+446,Storage 49,Office Supplies,Storage
+447,Laptops 47,Technology,Laptops
+448,Storage 43,Office Supplies,Storage
+449,Phones 4,Technology,Phones
+450,Phones 1,Technology,Phones
